@@ -1,0 +1,52 @@
+body{
+    background-image:url(Banner_Section.webp);
+    background-size: cover;
+    font-family: sans-serif;
+
+}
+
+
+.container
+{
+    width: 50%;
+    margin: auto;
+    overflow: hidden;
+    background-color: #fff;
+    border-radius:10px;
+    text-align:center;
+    margin-top:7%;
+}
+
+hr{
+    width: 80%;
+}
+
+.fb
+{
+    padding: 0.5rem 2rem;
+    color: #fff;
+    background-color: #426782;
+    border: none;
+
+    border-radius: 5px;
+}
+
+.container input{
+    padding: 0.5rem;
+    width:70%;
+    border-radius: 5px;
+}
+
+.container input[type=checkbox]{
+    width: auto;
+}
+
+.btn
+{
+    padding: 1rem;
+    background-color: #2ecc71;
+    font-size: 1rem;
+    width:50%;
+    border-radius: 7px;
+    border: none;
+}
